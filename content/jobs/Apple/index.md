@@ -1,13 +1,16 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2021-03-01'
+title: 'Data Scientist'
+company: 'Tata Consultancy Services'
+location: 'Bengaluru, India'
+range: 'March 2021 - December 2022'
+
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Migrated 8B+ records of data onto Hadoop clusters from legacy systems, optimizing data storage and retrieval by 37%.
+- Designed and executed A/B tests that improved user engagement by 14% using Jupyter Notebook and Python.
+- Managed data extraction and preprocessing from diverse BFSI sources, ensuring data quality.
+- Designed robust data pipelines for seamless ETL into QlikSense.
+- Applied advanced preprocessing and ML techniques, such as Random Forest and One-Class SVM, to detect fraudulent behavior within the BFSI sector.
+- Increased operational efficiency by 12% through the use of QlikView and QlikSense to create dynamic dashboards that drove data-driven decision-making.
+
